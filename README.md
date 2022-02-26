@@ -11,6 +11,10 @@ Soy un estudiante de Desarrollo De Aplicaciones Móviles apasionado por escribir
 - 💻 Estoy buscando mi primer empleo IT en una empresa, para poder aportar mis conocimientos y poder seguir aprendiendo.
 
 
-- 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/sosafacundo/) [Gmail](facusosa1607@gmail.com)
+- 📫 Cómo contactarme: 
+
+- [Linkedin](https://www.linkedin.com/in/sosafacundo/)
+  
+- Gmail: facusosa1607@gmail.com
 
 - Cualquier consulta no molesta Gracias! 😊
