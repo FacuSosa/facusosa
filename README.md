@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**FacuSosa/facusosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# These are supported funding model platforms
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+patreon: # Replace with a single Patreon username
+open_collective: github-profile-readme-generator
+ko_fi: rahuldkjain
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+otechie: # Replace with a single Otechie username
+custom:
+  ["https://paypal.me/rahuldkjain", "https://www.buymeacoffee.com/rahuldkjain"]
