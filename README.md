@@ -10,6 +10,22 @@ Soy un estudiante de Desarrollo De Aplicaciones Móviles apasionado por escribir
 
 - 💻 Estoy buscando mi primer empleo IT en una empresa, para poder aportar mis conocimientos y poder seguir aprendiendo.
 
+Experiencia trabajando con:
+
+✔️Kotlin/java
+✔️Ciclo de vida de una app
+✔️Patrones de Diseño
+✔️Arquitectura(MVC,MVP,MVVM) 
+✔️Programación Orientada a Objetos 
+✔️Firebase(crashlytics ,analytics ,remoteconfig ,authentication,database ,notification)
+✔️Librerias y Apis(Retrofit,Picasso,Glide, OkHttp)
+✔️Recyclerview 
+✔️XML 
+✔️LAYOUT 
+✔️Metodologías Agiles (Scrum)
+✔️GIT 
+✔️MYSQL/ SQLite 
+
 
 - 📫 Cómo contactarme: 
 
