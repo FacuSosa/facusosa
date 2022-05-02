@@ -8,7 +8,6 @@ Soy un estudiante de Desarrollo De Aplicaciones Móviles apasionado por escribir
 
 - 📚 Además de estudiar en la Universidad, me encuentro capacitandome de forma autodidacta para poder seguir aprendiendo y adquirir nuevos conocimientos. 
 
-- 💻 Estoy buscando mi primer empleo IT en una empresa, para poder aportar mis conocimientos y poder seguir aprendiendo.
 
 Experiencia trabajando con:
 
