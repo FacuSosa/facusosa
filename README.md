@@ -9,21 +9,31 @@ Soy un estudiante de Desarrollo De Aplicaciones Móviles apasionado por escribir
 - 📚 Además de estudiar en la Universidad, me encuentro capacitandome de forma autodidacta para poder seguir aprendiendo y adquirir nuevos conocimientos. 
 
 
-Experiencia trabajando con:
+EXPERIENCIA TRABAJANDO CON:
 
 ✔️Kotlin/java
+
 ✔️Ciclo de vida de una app
+
 ✔️Patrones de Diseño
+
 ✔️Arquitectura(MVC,MVP,MVVM) 
-✔️Programación Orientada a Objetos 
+
 ✔️Firebase(crashlytics ,analytics ,remoteconfig ,authentication,database ,notification)
+
 ✔️Librerias y Apis(Retrofit,Picasso,Glide, OkHttp)
+
 ✔️Recyclerview 
-✔️XML 
-✔️LAYOUT 
-✔️Metodologías Agiles (Scrum)
+
+✔️Layout 
+
+✔️Material Design
+
 ✔️GIT 
-✔️MYSQL/ SQLite 
+
+✔️Corrutinas
+
+✔️Room
 
 
 - 📫 Cómo contactarme: 
