@@ -17,7 +17,7 @@ EXPERIENCIA TRABAJANDO CON:
 
 ✔️Patrones de Diseño
 
-✔️Arquitectura(MVC,MVP,MVVM) 
+✔️Arquitectura(MVP,MVVM) 
 
 ✔️Firebase(crashlytics ,analytics ,remoteconfig ,authentication,database ,notification)
 
