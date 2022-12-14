@@ -1,6 +1,6 @@
 ### HOLA BIENVENIDOS A MI REPOSITORIO DE GITHUB 👋
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 Soy un estudiante de Desarrollo De Aplicaciones Móviles apasionado por escribir código, resolver problemas, automatizar cosas y crear aplicaciones.
 
