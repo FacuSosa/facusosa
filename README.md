@@ -1,6 +1,6 @@
 ### HOLA BIENVENIDOS A MI REPOSITORIO DE GITHUB 👋
 
-<img alt="Coder GIF" height=70 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img alt="Coder GIF" height=70 width=70 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 Soy un estudiante de Desarrollo De Aplicaciones Móviles apasionado por escribir código, resolver problemas, automatizar cosas y crear aplicaciones.
 
