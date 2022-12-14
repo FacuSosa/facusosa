@@ -9,6 +9,18 @@
 
 ***-📚 Además de estudiar en la Universidad, me encuentro capacitandome de forma autodidacta para poder seguir aprendiendo y adquirir nuevos conocimientos.***
 
+```kotlin
+fun main(){
+    val nombre: String = "Facundo"
+    val apellido: String = "Sosa"
+    val año:Int = 27
+
+    println("Mi nombre  es $nombre, mi apellido es $apellido y tengo $año años ")
+}
+```
+```
+Mi nombre es Facundo, mi apellido es Sosa y tengo 27 años
+```
 
 **EXPERIENCIA TRABAJANDO CON:**
 
