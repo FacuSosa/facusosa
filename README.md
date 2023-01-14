@@ -16,12 +16,9 @@ Mi nombre es Facundo, mi apellido es Sosa y me encanta programar
 ```
 
 
+***Soy desarrollador Android con gran interés en desarrollarme como profesional en el área. Me considero una persona con gran inciativa para generar ideas que puedan ayudar a los demás mediante el desarrollo de aplicaciones.Tengo gran conocimiento en Java y Kotlin que me hacen capaz de resolver gran cantidad de problemas,para dar un desarrollo limpio y conciso de código.***
 
-***Soy un estudiante de Desarrollo De Aplicaciones Móviles apasionado por escribir código, resolver problemas, automatizar cosas y crear aplicaciones.***
 
-***- 👨‍🎓 Soy estudiante en la Universidad De La Matanza.***
-
-***-📚 Además de estudiar en la Universidad, me encuentro capacitandome de forma autodidacta para poder seguir aprendiendo y adquirir nuevos conocimientos.***
 
 
 **EXPERIENCIA TRABAJANDO CON:**
@@ -51,7 +48,11 @@ Mi nombre es Facundo, mi apellido es Sosa y me encanta programar
 
 ***✔️Room***
 
+**CANAL DE YOUTUBE** 
 
+**En este canal estaré subiendo aplicaciones y proyectos que he realizado!**
+
+***- [Youtube](https://www.youtube.com/@FacuDev/featured)***
 
 
 **- 📫 CÓMO CONTACTARME:** 
