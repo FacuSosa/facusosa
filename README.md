@@ -24,9 +24,9 @@ Mi nombre es Facundo, mi apellido es Sosa y me encanta programar
 **EXPERIENCIA TRABAJANDO CON:**
 
 
-***✔️Kotlin/java***
+***✔️Kotlin/java***       ***✔️Ciclo de vida de una app***
 
-***✔️Ciclo de vida de una app***
+
 
 ***✔️Patrones de Diseño***
 
@@ -36,15 +36,21 @@ Mi nombre es Facundo, mi apellido es Sosa y me encanta programar
 
 ***✔️Librerias y Apis(Retrofit,Picasso,Glide, OkHttp)***
 
-***✔️Recyclerview*** 
+***✔️Integraciones con Apis Rest*** 
 
-***✔️Layout*** 
+***✔️LiveData*** 
 
 ***✔️Material Design***
 
 ***✔️GIT*** 
 
 ***✔️Corrutinas***
+
+***✔️Room***
+
+***✔️Test con JUnit y Espresso***
+
+***✔️***
 
 ***✔️Room***
 
