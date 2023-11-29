@@ -8,15 +8,15 @@
 
 ###
 
-<h2 align="left">Acerca de mí</h2>
+<h1 align="left">Acerca de mí</h1>
 
 ###
 
-<h4 align="left">Soy desarrollador Android con gran interés en desarrollarme como profesional en el área. Me considero una persona con gran inciativa para generar ideas que puedan ayudar a los demás mediante el desarrollo de aplicaciones. Tengo gran conocimiento en Java y Kotlin que me hacen capaz de resolver gran cantidad de problemas, para dar un desarrollo limpio y conciso de código.</h4>
+<h3 align="left">Soy desarrollador Android con gran interés en desarrollarme como profesional en el área. Me considero una persona con gran inciativa para generar ideas que puedan ayudar a los demás mediante el desarrollo de aplicaciones. Tengo gran conocimiento en Java y Kotlin que me hacen capaz de resolver gran cantidad de problemas, para dar un desarrollo limpio y conciso de código.</h3>
 
 ###
 
-<h2 align="left">Habilidades</h2>
+<h1 align="left">Habilidades</h1>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left">Contacto</h2>
+<h1 align="left">Contacto</h1>
 
 ###
 
