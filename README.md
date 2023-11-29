@@ -42,16 +42,18 @@ Mockito y Robolectric**
 
 **✔️Scrum, Jira**
 
-**CANAL DE YOUTUBE** 
-
-**En este canal estaré subiendo aplicaciones y proyectos que he realizado!**
-
-***- [Youtube](https://www.youtube.com/@FacuDev/featured)***
-
 
 **- 📫 CÓMO CONTACTARME:** 
-
-***- [Linkedin](https://www.linkedin.com/in/sosafacundo/)***
-  
 ***- Gmail: facusosa1607@gmail.com***
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FacuSosa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sosafacundo//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FacuSosa)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FacuSosa&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/FacuSosa)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=FacuSosa)  
 
